@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialShelo</string>
+    <string name="toast">Must give permission to call,please go to setting</string>
+</resources>
